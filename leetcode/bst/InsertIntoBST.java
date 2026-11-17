@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.bst;
 
 public class InsertIntoBST {
     static class TreeNode {
